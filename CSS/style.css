@@ -1,0 +1,37 @@
+/* universal => it is slector is used to give the style for a body or anywhere in the body */
+
+/* syntak of css  */
+/* 
+    selector {
+        proerty : value;
+        property> value
+    }
+
+ */
+
+/* *{
+    background-color: aqua;
+    color: brown;
+} */
+
+/* class selector */
+/* it is used to give the style for a element which is having the className */
+
+.vivek{
+    background-color: blue;
+    color: white;
+    width: 200px;
+    height: 150px;
+}
+
+
+#janu{
+    background-color: red;
+    color:  yellow;
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+    overflow-y: scroll;
+}
+
+
